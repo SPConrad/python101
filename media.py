@@ -1,5 +1,7 @@
 import webbrowser
 
+#this file contains the Movie class defintion
+
 class Movie():
     """ This class provides a way to store movie related information"""
     
